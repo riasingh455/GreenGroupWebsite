@@ -1,0 +1,27 @@
+body {
+  font-family: Arial;
+  background-color:#acf29d;
+}
+h1{
+  color:rgb(0,0,0);
+  font-size: 60px;
+  text-align: center;
+  font-family: Courier New, monospace;
+}
+
+h2{
+  font-size: 36px;
+  font-family: Courier New, monospace;
+}
+
+
+div{
+  margin: auto;
+  height: 100px;
+  width: 500px;
+  text-align: center;
+}
+
+td, table {
+  padding: 20px;
+}
